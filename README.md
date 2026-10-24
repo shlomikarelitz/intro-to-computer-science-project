@@ -1,4 +1,4 @@
-# מבוא למדמ"ח פרוג'קט
+**#intro to computer science project**
 
 **Introduction to Computer Science projects - Ben-Gurion University, Semester B, 2024.**
 
