@@ -1,0 +1,2 @@
+# Original NumPy version in the surviving 2024 assignment environment.
+numpy==2.0.0
